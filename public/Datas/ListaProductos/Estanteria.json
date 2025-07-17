@@ -1,0 +1,18 @@
+[
+    {
+        "id": 12,
+        "category": "Estanteria",
+        "name_product": "EstanteriaConPuntera",
+        "price": 150000,
+        "img": "../assets/img/Estanteria/EstanteriaConPuntera.webp",
+        "alt": "EstanteriaConPuntera"
+    },
+    {
+        "id": 13,
+        "category": "Estanteria",
+        "name_product": "Estanteria_Lateral",
+        "price": 120000,
+        "img": "../assets/img/Estanteria/Estanteria_Lateral.webp",
+        "alt": "Estanteria_Lateral"
+    }
+]

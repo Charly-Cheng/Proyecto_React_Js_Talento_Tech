@@ -1,0 +1,18 @@
+[
+    {
+        "id": 15,
+        "category": "Lockers",
+        "name_product": "Lockers_juegos",
+        "price": 150000,
+        "img": "../assets/img/Lockers/Lockers_juegos.webp",
+        "alt": "Lockers_juegos"
+    },
+    {
+        "id": 16,
+        "category": "Lockers",
+        "name_product": "Lockers_8",
+        "price": 120000,
+        "img": "../assets/img/Lockers/Lockers_8.webp",
+        "alt": "Lockers_8"
+    }
+]

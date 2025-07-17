@@ -1,0 +1,26 @@
+[
+    {
+        "id": 19,
+        "category": "Varios",
+        "name_product": "TermoSelladora",
+        "price": 150000,
+        "img": "../assets/img/Varios/TermoSelladora.jpg",
+        "alt": "TermoSelladora"
+    },
+    {
+        "id": 20,
+        "category": "Varios",
+        "name_product": "Cafetera",
+        "price": 120000,
+        "img": "../assets/img/Varios/Cafetera.jpg",
+        "alt": "Cafetera"
+    },
+    {
+        "id": 21,
+        "category": "Varios",
+        "name_product": "Tostadora",
+        "price": 80000,
+        "img": "../assets/img/Varios/Tostadora.jpg",
+        "alt": "Tostadora"
+    }
+]

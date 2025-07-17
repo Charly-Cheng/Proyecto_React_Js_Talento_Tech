@@ -1,0 +1,20 @@
+[
+    {
+        "id": 17,
+        "category": "Porta Precio",
+        "name_product": "Porta Precio",
+        "price": 2800,
+        "img": "../assets/img/Portaprecio/Portaprecio_1.webp",
+        "alt": "Porta Precio"
+    },
+    {
+        "id": 18,
+        "category": "Porta Precio",
+        "name_product": "Porta Precio 2",
+        "price": 8000,
+        "img": "../assets/img/Portaprecio/Portaprcio_2.jpg",
+        "alt": "Porta Precio 2"
+    }
+    
+
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 7,
+        "category": "Carritos",
+        "name_product": "Chango_Canasto",
+        "price": 150000,
+        "img": "../assets/img/Changocarrito/Chango_Canasto.webp",
+        "alt": "Chango_Canasto"
+    },
+    {
+        "id": 8,
+        "category": "Carritos",
+        "name_product": "Chango_Carrito",
+        "price": 120000,
+        "img": "../assets/img/Changocarrito/Chango Critos.webp",
+        "alt": "Chango Critos"
+    },
+    {
+        "id": 9,
+        "category": "Carritos",
+        "name_product": "Chango_Carrito2",
+        "price": 120000,
+        "img": "../assets/img/Changocarrito/Chango Critos2.webp",
+        "alt": "Chango Critos2"
+    },
+    {
+        "id": 10,
+        "category": "Carritos",
+        "name_product": "Canasto",
+        "price": 8000,
+        "img": "../assets/img/Changocarrito/Canasto.webp",
+        "alt": "Canasto"
+    }
+]

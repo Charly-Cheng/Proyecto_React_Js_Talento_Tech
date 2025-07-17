@@ -1,0 +1,27 @@
+[
+    {
+        "id": 4,
+        "category": "Cajas",
+        "name_product": "Combo de Cajas",
+        "price": 2000000,
+        "img": "../assets/img/Cajas/Combo.jpg",
+        "alt": "Combo de Cajas"
+    },
+    {
+        "id": 5,
+        "category": "Cajas",
+        "name_product": "LectorCodigoBarra",
+        "price": 280000,
+        "img": "../assets/img/Cajas/LectorCodigoBarra.webp",
+        "alt": "LectorCodigoBarra"
+    },
+    {
+        "id": 6,
+        "category": "Cajas",
+        "name_product": "SuperFacil",
+        "price": 800000,
+        "img": "../assets/img/Cajas/SuperFacil.jpg",
+        "alt": "SuperFacil"
+    }
+
+]

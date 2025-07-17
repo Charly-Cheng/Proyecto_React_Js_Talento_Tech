@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category": "Balanza",
+        "name_product": "Krentz_Tique",
+        "price": 150000,
+        "img": "../assets/img/Balanza/Krentz_Tique.webp",
+        "alt": "Krentz_Tique"
+    },
+    {
+        "id": 2,
+        "category": "Balanza",
+        "name_product": "Krentz_Aula",
+        "price": 120000,
+        "img": "../assets/img/Balanza/Krentz_Aula.webp",
+        "alt": "Krentz_Aula"
+    },
+    {
+        "id": 3,
+        "category": "Balanza",
+        "name_product": "Krentz_Aura",
+        "price": 120000,
+        "img": "../assets/img/Balanza/Krentz_Aura.webp",
+        "alt": "Krentz_Aura"
+    }
+]
