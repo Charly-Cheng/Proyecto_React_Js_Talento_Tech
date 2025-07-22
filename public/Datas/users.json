@@ -2,7 +2,7 @@
   {
         "name": "administrador",
 	"email": "123",
-        "password": "123",
+        "password": "123@.com",
         "role": "admin"
     },
     {
