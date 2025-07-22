@@ -1,8 +1,8 @@
 [
   {
         "name": "administrador",
-	"email": "123",
-        "password": "123@123.com",
+	"email": "123@123.com",
+        "password": "123",
         "role": "admin"
     },
     {
