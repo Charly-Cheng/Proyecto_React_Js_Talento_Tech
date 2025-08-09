@@ -1,9 +1,17 @@
 [
+<<<<<<< HEAD
    {
         "name": "administrador",
 	"email": "123",
         "password": "123",
         "role": "admin"
+=======
+  {
+        "name": "administrador",
+	"email": "123@123.com",
+        "password": "123",
+        "role": "admin"
+>>>>>>> d91bc6b38754ef14549087850f642565a9b64f79
     },
     {
         "name": "administrador",
